@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "/home/yigo/Dev/flutter/rangers/linux",
+    "java.compile.nullAnalysis.mode": "automatic"
+}

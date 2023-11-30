@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "795951509638",
+    "project_id": "flutterchat-791c8",
+    "storage_bucket": "flutterchat-791c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795951509638:android:61f0c5faf406e0656fe107",
+        "android_client_info": {
+          "package_name": "com.example.booktiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795951509638-a7gfdmv9vh3kcdau6kncaj0lraugni30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGBbt3H_zqkGNrw9IsJXS8BqW1Hq0M_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795951509638-a7gfdmv9vh3kcdau6kncaj0lraugni30.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795951509638-1v02tec64c3ekdshic1e9jqgmj9ura79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.booktiket.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795951509638:android:0a122ef28d7932e46fe107",
+        "android_client_info": {
+          "package_name": "com.example.rangers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795951509638-a7gfdmv9vh3kcdau6kncaj0lraugni30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGBbt3H_zqkGNrw9IsJXS8BqW1Hq0M_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795951509638-a7gfdmv9vh3kcdau6kncaj0lraugni30.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795951509638-1v02tec64c3ekdshic1e9jqgmj9ura79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.booktiket.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795951509638:android:15597dd4fa0156786fe107",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795951509638-a7gfdmv9vh3kcdau6kncaj0lraugni30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGBbt3H_zqkGNrw9IsJXS8BqW1Hq0M_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795951509638-a7gfdmv9vh3kcdau6kncaj0lraugni30.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795951509638-1v02tec64c3ekdshic1e9jqgmj9ura79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.booktiket.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
